@@ -39,43 +39,43 @@
             },
             {
                 "id": "wallpaper 5",
-                "src": "img/wallpapers/flame.jpg",
+                "src": "img/wallpapers/maluma2.png",
                 "user": {
-                    "src": "img/profile/iheart.png",
-                    "name": "Fall Out Boy",
-                    "job": "iHeart Radio"
+                    "src": "img/profile/cmn.jpg",
+                    "name": "Maluma",
+                    "job": "CMN EVENTS"
                 }
             },
             {
                 "id": "wallpaper 6",
-                "src": "img/wallpapers/6.jpg",
+                "src": "img/wallpapers/black.png",
                 "user": {
-                    "src": "img/profile/3.png",
-                    "name": "Patricia",
-                    "job": "Front-End"
+                    "src": "img/profile/lolla.jpg",
+                    "name": "Karol G",
+                    "job": "Lollapalooza"
                 }
             },
             {
                 "id": "wallpaper 7",
-                "src": "img/wallpapers/7.png",
+                "src": "img/wallpapers/uzi3.png",
                 "user": {
-                    "src": "img/profile/4.jpg",
-                    "name": "Jennifer",
-                    "job": "Front-End"
+                    "src": "img/profile/cmn.jpg",
+                    "name": "Maluma",
+                    "job": "CMN EVENTS"
                 }
             },
             {
                 "id": "wallpaper 8",
-                "src": "img/wallpapers/8.jfif",
+                "src": "img/wallpapers/karolCrowd.jpg",
                 "user": {
-                    "src": "img/profile/1.jpg",
-                    "name": "Richard",
-                    "job": "Product Designer"
+                    "src": "img/profile/lolla.jpg",
+                    "name": "Karol G",
+                    "job": "Lollapalooza"
                 }
             },
             {
                 "id": "wallpaper 9",
-                "src": "img/wallpapers/9.jpg",
+                "src": "img/wallpapers/jared.jpg",
                 "user": {
                     "src": "img/profile/2.png",
                     "name": "Joseph",
@@ -84,7 +84,7 @@
             },
             {
                 "id": "wallpaper 10",
-                "src": "img/wallpapers/10.jfif",
+                "src": "img/wallpapers/jared.jpg",
                 "user": {
                     "src": "img/profile/4.jpg",
                     "name": "Charles",
@@ -93,7 +93,7 @@
             },
             {
                 "id": "wallpaper 11",
-                "src": "img/wallpapers/11.jfif",
+                "src": "img/wallpapers/jake.jpeg",
                 "user": {
                     "src": "img/profile/2.png",
                     "name": "Joshua",
@@ -129,7 +129,7 @@
             },
             {
                 "id": "wallpaper 15",
-                "src": "img/wallpapers/15.jpg",
+                "src": "img/wallpapers/keyglock.jpg",
                 "user": {
                     "src": "img/profile/5.jpg",
                     "name": "Justin",
