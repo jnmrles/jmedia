@@ -1,4 +1,4 @@
-.brick-layout { 
+.brick-layout {
     position: absolute;
     width: 60%;
     height: 100%;
@@ -21,6 +21,7 @@
 }
 .brick-column:first-child img:first-child {
     margin-top: -220px;
+
 }
 .brick-column:nth-child(2) img:first-child {
     margin-top: -130px;
@@ -37,6 +38,7 @@
     object-fit: cover;
     margin-bottom: 15px;
     border-radius: 10px;
+    animation: primary 3s linear infinite;
 }
 @media screen and (max-width: 1100px) {
     .brick-layout {
@@ -65,3 +67,12 @@
         width: 100%;
     }
 }
+
+@keyframes primary {
+    from {
+      left: 0%;
+    }
+    to {
+      left: -100%;
+    }
+  }

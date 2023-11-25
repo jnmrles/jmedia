@@ -3,8 +3,14 @@
     z-index: 2;
 }
 .nav-title {
-    font-size: 1.8rem;
+    font-size: 2.8rem;
+    font-family: Misto !important;
+    font-weight: bold;
     color: var(--green-400);
+    /* color: rgba(0,0,0,0.6); */
+    text-shadow: 2px 2px 3px rgba(255,255,255,0.1);
+    animation: flicker 1.5s infinite alternate;
+
 }
 .navbar-nav {
     margin-left: 140px;
@@ -53,4 +59,41 @@
     .navbar-nav {
         display: none !important;
     }
+
+}
+
+
+.neonText {
+    color: #53f1f4;
+    text-shadow:
+        0 0 7px #51dd99,
+        0 0 10px #57aee7,
+        0 0 21px #0bf570,
+        0 0 42px #0fa,
+        0 0 82px #0fa,
+        0 0 92px #0fa,
+        0 0 102px #0fa,
+        0 0 151px rgb(20, 255, 165);
+  }
+
+
+@keyframes flicker {
+
+  0%, 18%, 22%, 25%, 53%, 47% {
+
+      text-shadow:
+      0 0 4px #6bea9a,
+      0 0 11px #5ff3ce,
+      0 0 19px #11d16a,
+      0 0 40px #0fa,
+      0 0 80px rgb(21, 145, 104),
+      0 0 90px rgb(10, 130, 90),
+      0 0 100px rgb(19, 194, 136),
+      0 0 150px rgb(20, 211, 106);
+
+  }
+
+  20%, 24%, 30% {
+      text-shadow: none;
+  }
 }

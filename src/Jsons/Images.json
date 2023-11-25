@@ -3,47 +3,47 @@
         "all": [
             {
                 "id": "wallpaper 1",
-                "src": "img/wallpapers/1.jpg",
+                "src": "img/wallpapers/test.png",
                 "user": {
-                    "src": "img/profile/1.jpg",
-                    "name": "Arash",
-                    "job": "Designer"
+                    "src": "img/profile/cmn.jpg",
+                    "name": "Maluma",
+                    "job": "CMN EVENTS"
                 }
             },
             {
                 "id": "wallpaper 2",
-                "src": "img/wallpapers/2.jfif",
+                "src": "img/wallpapers/pancho.jpg",
                 "user": {
-                    "src": "img/profile/2.png",
-                    "name": "Farbod",
-                    "job": "Scientist"
+                    "src": "img/profile/cmn.jpg",
+                    "name": "PANCHO BARRAZA",
+                    "job": "CMN EVENTS"
                 }
             },
             {
                 "id": "wallpaper 3",
-                "src": "img/wallpapers/3.jpg",
+                "src": "img/wallpapers/pancho2.jpg",
                 "user": {
-                    "src": "img/profile/1.jpg",
-                    "name": "Anne",
-                    "job": "Graphic Designer"
+                    "src": "img/profile/cmn.jpg",
+                    "name": "Pancho Barraza",
+                    "job": "CMN EVENTS"
                 }
             },
             {
                 "id": "wallpaper 4",
-                "src": "img/wallpapers/4.jpg",
+                "src": "img/wallpapers/karol.png",
                 "user": {
-                    "src": "img/profile/4.jpg",
-                    "name": "James",
-                    "job": "editor"
+                    "src": "img/profile/lolla.jpg",
+                    "name": "Karol G",
+                    "job": "Lollapalooza"
                 }
             },
             {
                 "id": "wallpaper 5",
-                "src": "img/wallpapers/5.jpg",
+                "src": "img/wallpapers/flame.jpg",
                 "user": {
-                    "src": "img/profile/5.jpg",
-                    "name": "Mary",
-                    "job": "Developer"
+                    "src": "img/profile/iheart.png",
+                    "name": "Fall Out Boy",
+                    "job": "iHeart Radio"
                 }
             },
             {

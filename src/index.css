@@ -1,5 +1,7 @@
 @import "./css-reset.css";
 
+
+
 :root {
     --white-100: #FFFFFF;
     --dark-900: #09090A;
@@ -31,3 +33,25 @@ body {
 .justify-content-between {
     justify-content: space-between;
 }
+
+
+@font-face {
+    font-family: Misto;
+    src: url("./fonts/psyche/2Psyche-Regular.otf") format("opentype");
+    font-weight: bold;
+   }
+
+
+   @font-face {
+    font-family: 'CustomFont'; /* Specify the desired font-family name */
+    src: url('./fonts/liquly/Liquly.ttf') format('truetype'); /* Specify the path to your .ttf file */
+    font-weight: normal;
+    font-style: normal;
+  }
+
+
+@font-face {
+    font-family: Matrix;
+    src: url("./fonts/pakal/Pakal-Light.otf") format("opentype");
+    font-weight: normal;
+   }
