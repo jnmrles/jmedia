@@ -242,7 +242,7 @@
             },
             {
                 "id": "wallpaper 26",
-                "src": "img/wallpapers/key.png",
+                "src": "img/wallpapers/key2.png",
                 "user": {
                     "src": "img/profile/5.jpg",
                     "name": "Justin",
@@ -261,7 +261,19 @@
                 }
 
 
+            },
+            {
+                "id": "wallpaper 28",
+                "src": "img/wallpapers/ml.jpeg",
+                "user": {
+                    "src": "img/profile/5.jpg",
+                    "name": "Justin",
+                    "job": "Designer"
+                }
+
+
             }
+
 
 
         ],
