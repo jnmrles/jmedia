@@ -1,11 +1,11 @@
 // import styles of this component
-import styles from "./MasonryLayout.module.css"
+import styles from "./MasonryLayout.module.css";
 
 // import other react pkg to use
-import Masonry from "react-masonry-css"
+import Masonry from "react-masonry-css";
 
 // import other component to use
-import MasonryBox from './MasonryBox/MasonryBox';
+import MasonryBox from "./MasonryBox/MasonryBox";
 
 // MasonryLayout Component
 const MasonryLayout = ({ images }) => {
@@ -13,7 +13,7 @@ const MasonryLayout = ({ images }) => {
     default: 4,
     1100: 3,
     700: 2,
-    500: 1
+    500: 1,
   };
 
   return (
@@ -22,17 +22,17 @@ const MasonryLayout = ({ images }) => {
       className={styles["my-masonry-grid"]}
       columnClassName={styles["my-masonry-grid_column"]}
     >
-      {images.map(item => (
-        <MasonryBox 
-          key={item.id} 
-          wallSrc={item.src} 
-          userProf={item.user.src} 
-          userName={item.user.name} 
-          userJob={item.user.job} 
+      {images.map((item) => (
+        <MasonryBox
+          key={item.id}
+          wallSrc={item.src}
+          userProf={item.user.src}
+          userName={item.user.name}
+          userJob={item.user.job}
         />
       ))}
     </Masonry>
-  )
-}
+  );
+};
 
-export default MasonryLayout
+export default MasonryLayout;

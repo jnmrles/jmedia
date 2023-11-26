@@ -2,9 +2,17 @@
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
+    /* justify-content: center; */
+   flex-grow: 1;
     margin-left: -30px;
     width: auto;
 }
 .my-masonry-grid_column {
-    padding-left: 30px;
+    padding-left: 20px;
+
 }
+
+
+
+
+
