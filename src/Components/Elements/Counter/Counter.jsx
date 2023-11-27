@@ -7,7 +7,6 @@ const Count = (props) => {
   // number to increment to
   // duration of count in seconds
 
-  console.log("props", props);
   const number = props.data;
 
   // number displayed by component

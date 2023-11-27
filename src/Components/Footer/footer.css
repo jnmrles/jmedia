@@ -22,14 +22,18 @@
   font-weight: 500;
   text-transform: capitalize;
   line-height: 3rem;
+  font-family: Misto !important;
+  color: green;
 }
 .footer-content p{
   max-width: 500px;
   margin: 10px auto;
   line-height: 28px;
-  font-size: 14px;
+  font-size: 18px;
   color: #cacdd2;
 }
+
+
 .socials{
   list-style: none;
   display: flex;
@@ -42,8 +46,7 @@
 }
 .socials a{
   text-decoration: none;
-  color: #fff;
-  border: 1.1px solid white;
+
   padding: 5px;
 
   border-radius: 50%;
@@ -73,9 +76,10 @@ float: left;
   font-size: 14px;
   word-spacing: 2px;
   text-transform: capitalize;
+  color: white;
 }
 .footer-bottom p a{
-color:#44bae8;
+color:#44e89e;
 font-size: 16px;
 text-decoration: none;
 }

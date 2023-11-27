@@ -122,7 +122,7 @@
                 "id": "wallpaper 14",
                 "src": "img/wallpapers/panchoCross.jpg",
                 "user": {
-                    "src": "img/profile/4.jpg",
+                    "src": "img/profile/cmn.jpg",
                     "name": "Pancho Barraza",
                     "job": "CMN EVENTS"
                 }
@@ -151,7 +151,7 @@
                 "user": {
                     "src": "img/profile/cmn.jpg",
                     "name": "Pancho Barraza",
-                    "job": "Designer"
+                    "job": "CMN EVENTS"
                 }
 
             },
@@ -159,9 +159,9 @@
                 "id": "wallpaper 18",
                 "src": "img/wallpapers/fob.jpeg",
                 "user": {
-                    "src": "img/profile/5.jpg",
-                    "name": "Justin",
-                    "job": "Designer"
+                    "src": "img/profile/iheart.png",
+                    "name": "Fall Out Boy",
+                    "job": "iHeart Radio"
                 }
 
             },
@@ -169,9 +169,9 @@
                 "id": "wallpaper 19",
                 "src": "img/wallpapers/jared.png",
                 "user": {
-                    "src": "img/profile/5.jpg",
-                    "name": "Justin",
-                    "job": "Designer"
+                    "src": "img/profile/iheart.png",
+                    "name": "Jared Leto",
+                    "job": "iHeart Radio"
                 }
 
             },
@@ -179,9 +179,9 @@
                 "id": "wallpaper 20",
                 "src": "img/wallpapers/carti.jpg",
                 "user": {
-                    "src": "img/profile/5.jpg",
-                    "name": "Justin",
-                    "job": "Designer"
+                    "src": "img/profile/lyrical.jpg",
+                    "name": "Playboi Carti",
+                    "job": "Summer Smash"
                 }
 
             },
@@ -189,9 +189,9 @@
                 "id": "wallpaper 21",
                 "src": "img/wallpapers/dc.jpeg",
                 "user": {
-                    "src": "img/profile/5.jpg",
-                    "name": "Justin",
-                    "job": "Designer"
+                    "src": "img/profile/lyrical.jpg",
+                    "name": "DC The Don",
+                    "job": "Summer Smash"
                 }
 
 
@@ -200,9 +200,9 @@
                 "id": "wallpaper 22",
                 "src": "img/wallpapers/maluma3.png",
                 "user": {
-                    "src": "img/profile/5.jpg",
-                    "name": "Justin",
-                    "job": "Designer"
+                    "src": "img/profile/cmn.jpg",
+                    "name": "Maluma",
+                    "job": "CMN EVENTS"
                 }
 
 
@@ -211,9 +211,9 @@
                 "id": "wallpaper 23",
                 "src": "img/wallpapers/trav1.png",
                 "user": {
-                    "src": "img/profile/5.jpg",
-                    "name": "Justin",
-                    "job": "Designer"
+                    "src": "img/profile/iheart.png",
+                    "name": "Travis Scott",
+                    "job": "iHeart Radio"
                 }
 
 
@@ -222,9 +222,9 @@
                 "id": "wallpaper 24",
                 "src": "img/wallpapers/uziSM.png",
                 "user": {
-                    "src": "img/profile/5.jpg",
-                    "name": "Justin",
-                    "job": "Designer"
+                    "src": "img/profile/lyrical.jpg",
+                    "name": "Lil Uzi Vert",
+                    "job": "Summer Smash"
                 }
 
 
@@ -234,8 +234,8 @@
                 "src": "img/wallpapers/freddy.png",
                 "user": {
                     "src": "img/profile/5.jpg",
-                    "name": "Justin",
-                    "job": "Designer"
+                    "name": "Freddy Gibbs",
+                    "job": "Chicago Cubs"
                 }
 
 
@@ -244,9 +244,9 @@
                 "id": "wallpaper 26",
                 "src": "img/wallpapers/key2.png",
                 "user": {
-                    "src": "img/profile/5.jpg",
-                    "name": "Justin",
-                    "job": "Designer"
+                    "src": "img/profile/lolla.jpg",
+                    "name": "Key Glock",
+                    "job": "Lollapalooza"
                 }
 
 
@@ -255,9 +255,9 @@
                 "id": "wallpaper 27",
                 "src": "img/wallpapers/wents.jpg",
                 "user": {
-                    "src": "img/profile/5.jpg",
-                    "name": "Justin",
-                    "job": "Designer"
+                    "src": "img/profile/iheart.png",
+                    "name": "Fall Out Boy",
+                    "job": "iHeart Radio"
                 }
 
 
@@ -266,9 +266,9 @@
                 "id": "wallpaper 28",
                 "src": "img/wallpapers/ml.jpeg",
                 "user": {
-                    "src": "img/profile/5.jpg",
-                    "name": "Justin",
-                    "job": "Designer"
+                    "src": "img/profile/cmn.jpg",
+                    "name": "Maluma",
+                    "job": "CMN EVENTS"
                 }
 
 
@@ -277,147 +277,272 @@
 
 
         ],
-        "test": [
+        "latin": [
             {
                 "id": "wallpaper 1",
-                "src": "img/wallpapers/6.jpg",
+                "src": "img/wallpapers/test.png",
                 "user": {
-                    "src": "img/profile/3.png",
-                    "name": "Patricia",
-                    "job": "Front-End"
-                }
-            }
-        ],
-        "topic": [
-            {
-                "id": "wallpaper 1",
-                "src": "img/wallpapers/2.jfif",
-                "user": {
-                    "src": "img/profile/2.png",
-                    "name": "Farbod",
-                    "job": "Scientist"
+                    "src": "img/profile/cmn.jpg",
+                    "name": "Maluma",
+                    "job": "CMN EVENTS"
                 }
             },
             {
                 "id": "wallpaper 2",
-                "src": "img/wallpapers/3.jpg",
+                "src": "img/wallpapers/pancho.jpg",
                 "user": {
-                    "src": "img/profile/1.jpg",
-                    "name": "Anne",
-                    "job": "Graphic Designer"
+                    "src": "img/profile/cmn.jpg",
+                    "name": "PANCHO BARRAZA",
+                    "job": "CMN EVENTS"
                 }
             },
             {
                 "id": "wallpaper 3",
-                "src": "img/wallpapers/4.jpg",
+                "src": "img/wallpapers/pancho2.jpg",
                 "user": {
-                    "src": "img/profile/4.jpg",
-                    "name": "James",
-                    "job": "editor"
+                    "src": "img/profile/cmn.jpg",
+                    "name": "Pancho Barraza",
+                    "job": "CMN EVENTS"
                 }
             },
             {
                 "id": "wallpaper 4",
-                "src": "img/wallpapers/5.jpg",
+                "src": "img/wallpapers/karol.png",
                 "user": {
-                    "src": "img/profile/5.jpg",
-                    "name": "Mary",
-                    "job": "Developer"
+                    "src": "img/profile/lolla.jpg",
+                    "name": "Karol G",
+                    "job": "Lollapalooza"
                 }
             },
             {
                 "id": "wallpaper 5",
-                "src": "img/wallpapers/6.jpg",
+                "src": "img/wallpapers/maluma2.png",
                 "user": {
-                    "src": "img/profile/3.png",
-                    "name": "Patricia",
-                    "job": "Front-End"
-                }
-            },
-            {
-                "id": "wallpaper 6",
-                "src": "img/wallpapers/7.png",
-                "user": {
-                    "src": "img/profile/4.jpg",
-                    "name": "Jennifer",
-                    "job": "Front-End"
-                }
-            },
-            {
-                "id": "wallpaper 7",
-                "src": "img/wallpapers/8.jfif",
-                "user": {
-                    "src": "img/profile/1.jpg",
-                    "name": "Richard",
-                    "job": "Product Designer"
+                    "src": "img/profile/cmn.jpg",
+                    "name": "Maluma",
+                    "job": "CMN EVENTS"
                 }
             },
             {
                 "id": "wallpaper 8",
-                "src": "img/wallpapers/9.jpg",
+                "src": "img/wallpapers/karolCrowd.jpg",
                 "user": {
-                    "src": "img/profile/2.png",
-                    "name": "Joseph",
-                    "job": "Designer"
+                    "src": "img/profile/lolla.jpg",
+                    "name": "Karol G",
+                    "job": "Lollapalooza"
                 }
+            },
+            {
+                "id": "wallpaper 9",
+                "src": "img/wallpapers/champ.png",
+                "user": {
+                    "src": "img/profile/cmn.jpg",
+                    "name": "Pancho Barraza",
+                    "job": "CMN EVENTS"
+                }
+            },
+            {
+                "id": "wallpaper 13",
+                "src": "img/wallpapers/panchSax2.png",
+                "user": {
+                    "src": "img/profile/cmn.jpg",
+                    "name": "Pancho Barraza",
+                    "job": "CMN EVENTS"
+                }
+            },
+            {
+                "id": "wallpaper 14",
+                "src": "img/wallpapers/panchoCross.jpg",
+                "user": {
+                    "src": "img/profile/cmn.jpg",
+                    "name": "Pancho Barraza",
+                    "job": "CMN EVENTS"
+                }
+            },
+            {
+                "id": "wallpaper 17",
+                "src": "img/wallpapers/panchTej.jpg",
+                "user": {
+                    "src": "img/profile/cmn.jpg",
+                    "name": "Pancho Barraza",
+                    "job": "CMN EVENTS"
+                }
+
+            },
+            {
+                "id": "wallpaper 22",
+                "src": "img/wallpapers/maluma3.png",
+                "user": {
+                    "src": "img/profile/cmn.jpg",
+                    "name": "Maluma",
+                    "job": "CMN EVENTS"
+                }
+
+
             }
         ],
-        "nature": [
+        "hip-hop/rap": [
             {
-                "id": "wallpaper 1",
-                "src": "img/wallpapers/12.jpg",
+                "id": "wallpaper 7",
+                "src": "img/wallpapers/uzi3.png",
                 "user": {
-                    "src": "img/profile/5.jpg",
-                    "name": "Jacob",
-                    "job": "Ui/Ux Designer"
+                    "src": "img/profile/aragon.png",
+                    "name": "Lil Uzi Vert",
+                    "job": "Aragon Ballroom"
                 }
             },
             {
-                "id": "wallpaper 2",
-                "src": "img/wallpapers/14.jpg",
+                "id": "wallpaper 12",
+                "src": "img/wallpapers/utopia.jpeg",
                 "user": {
-                    "src": "img/profile/4.jpg",
-                    "name": "Eric",
-                    "job": "Editor"
+                    "src": "img/profile/iheart.png",
+                    "name": "Travis Scott",
+                    "job": "iHeart Radio"
                 }
             },
             {
-                "id": "wallpaper 3",
-                "src": "img/wallpapers/15.jpg",
+                "id": "wallpaper 15",
+                "src": "img/wallpapers/keyglock.jpg",
+                "user": {
+                    "src": "img/profile/lolla.jpg",
+                    "name": "Key Glock",
+                    "job": "Lollapalooza"
+                }
+            },
+            {
+                "id": "wallpaper 16",
+                "src": "img/wallpapers/vic.jpeg",
+                "user": {
+                    "src": "img/profile/lyrical.jpg",
+                    "name": "Vic Mensa",
+                    "job": "Summer Smash"
+                }
+
+            },
+            {
+                "id": "wallpaper 20",
+                "src": "img/wallpapers/carti.jpg",
+                "user": {
+                    "src": "img/profile/lyrical.jpg",
+                    "name": "Playboi Carti",
+                    "job": "Summer Smash"
+                }
+
+            },
+            {
+                "id": "wallpaper 21",
+                "src": "img/wallpapers/dc.jpeg",
+                "user": {
+                    "src": "img/profile/lyrical.jpg",
+                    "name": "DC The Don",
+                    "job": "Summer Smash"
+                }
+
+
+            },
+            {
+                "id": "wallpaper 23",
+                "src": "img/wallpapers/trav1.png",
+                "user": {
+                    "src": "img/profile/iheart.png",
+                    "name": "Travis Scott",
+                    "job": "iHeart Radio"
+                }
+
+
+            },
+            {
+                "id": "wallpaper 24",
+                "src": "img/wallpapers/uziSM.png",
+                "user": {
+                    "src": "img/profile/lyrical.jpg",
+                    "name": "Lil Uzi Vert",
+                    "job": "Summer Smash"
+                }
+
+
+            },
+            {
+                "id": "wallpaper 25",
+                "src": "img/wallpapers/freddy.png",
                 "user": {
                     "src": "img/profile/5.jpg",
-                    "name": "Justin",
-                    "job": "Designer"
+                    "name": "Freddy Gibbs",
+                    "job": "Chicago Cubs"
                 }
+
+
+            },
+            {
+                "id": "wallpaper 26",
+                "src": "img/wallpapers/key2.png",
+                "user": {
+                    "src": "img/profile/lolla.jpg",
+                    "name": "Key Glock",
+                    "job": "Lollapalooza"
+                }
+
+
             }
         ],
-        "nft": [
+        "other": [
             {
-                "id": "wallpaper 1",
-                "src": "img/wallpapers/8.jfif",
+                "id": "wallpaper 6",
+                "src": "img/wallpapers/black.png",
                 "user": {
-                    "src": "img/profile/1.jpg",
-                    "name": "Richard",
-                    "job": "Product Designer"
+                    "src": "img/profile/aragon.png",
+                    "name": "6Lack",
+                    "job": "Aragon Ballroom"
                 }
             },
             {
-                "id": "wallpaper 2",
-                "src": "img/wallpapers/9.jpg",
+                "id": "wallpaper 10",
+                "src": "img/wallpapers/jared.jpg",
                 "user": {
-                    "src": "img/profile/2.png",
-                    "name": "Joseph",
-                    "job": "Designer"
+                    "src": "img/profile/iheart.png",
+                    "name": "Jared Leto",
+                    "job": "iHeart Radio"
                 }
             },
             {
-                "id": "wallpaper 3",
-                "src": "img/wallpapers/10.jfif",
+                "id": "wallpaper 11",
+                "src": "img/wallpapers/jake.jpeg",
                 "user": {
-                    "src": "img/profile/4.jpg",
-                    "name": "Charles",
-                    "job": "Designer"
+                    "src": "img/profile/lyrical.jpg",
+                    "name": "GloUp Jake",
+                    "job": "Summer Smash"
                 }
+            },
+            {
+                "id": "wallpaper 18",
+                "src": "img/wallpapers/fob.jpeg",
+                "user": {
+                    "src": "img/profile/iheart.png",
+                    "name": "Fall Out Boy",
+                    "job": "iHeart Radio"
+                }
+
+            },
+            {
+                "id": "wallpaper 19",
+                "src": "img/wallpapers/jared.png",
+                "user": {
+                    "src": "img/profile/iheart.png",
+                    "name": "Jared Leto",
+                    "job": "iHeart Radio"
+                }
+
+            },
+            {
+                "id": "wallpaper 27",
+                "src": "img/wallpapers/wents.jpg",
+                "user": {
+                    "src": "img/profile/iheart.png",
+                    "name": "Fall Out Boy",
+                    "job": "iHeart Radio"
+                }
+
+
             }
         ]
     }

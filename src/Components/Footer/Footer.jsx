@@ -1,49 +1,39 @@
 import "./footer.css";
-
+import { SocialIcon } from "react-social-icons";
 const Footer = () => {
   return (
     <footer>
-      <div class="footer-content">
-        <h3>Foolish Developer</h3>
+      <div className="footer-content">
+        <h3>JMEDIA </h3>
         <p>
-          Raj Template is a blog website where you will find great tutorials on
-          web design and development. Here each tutorial is beautifully
-          described step by step with the required source code.
+          {" "}
+          Your vision, my lens – Lets ignite the FOMO with every frame. 📸✨
         </p>
-        <ul class="socials">
+
+        <p>
+          Whether you're an artist, venue, or event organizer feel free to reach
+          out through my email or my social media for any inquiries, bookings,
+          or just to say hello!
+        </p>
+        <ul className="socials">
           <li>
             <a href="#">
-              <i class="fa fa-facebook"></i>
+              <SocialIcon url="https://instagram.com" />
             </a>
           </li>
           <li>
             <a href="#">
-              <i class="fa fa-twitter"></i>
-            </a>
-          </li>
-          <li>
-            <a href="#">
-              <i class="fa fa-google-plus"></i>
-            </a>
-          </li>
-          <li>
-            <a href="#">
-              <i class="fa fa-youtube"></i>
-            </a>
-          </li>
-          <li>
-            <a href="#">
-              <i class="fa fa-linkedin-square"></i>
+              <SocialIcon url="https://tiktok.com" />
             </a>
           </li>
         </ul>
       </div>
-      <div class="footer-bottom">
+      <div className="footer-bottom">
         <p>
-          copyright &copy; <a href="#">Foolish Developer</a>{" "}
+          copyright &copy; <a href="#">JMEDIA LLC</a>{" "}
         </p>
-        <div class="footer-menu">
-          <ul class="f-menu">
+        {/* <div className="footer-menu">
+          <ul className="f-menu">
             <li>
               <a href="">Home</a>
             </li>
@@ -57,7 +47,7 @@ const Footer = () => {
               <a href="">Blog</a>
             </li>
           </ul>
-        </div>
+        </div> */}
       </div>
     </footer>
   );

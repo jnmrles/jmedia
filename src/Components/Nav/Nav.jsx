@@ -1,5 +1,6 @@
 // import styles of this component
 import styles from "./Nav.module.css";
+import { SocialIcon } from "react-social-icons";
 
 // import other components
 import Button from "../Elements/Button/Button";
@@ -49,6 +50,9 @@ const Nav = () => {
       <div className={`flex ${styles["navbar-buttons"]}`}>
         {/* <Button theme="transparent">Login</Button> */}
         {/* <Button theme="matrix">INQUIRE</Button> */}
+
+        <SocialIcon className={styles["socials"]} url="https://instagram.com" />
+
         <button className={styles["button-33"]} role="button">
           INQUIRE
         </button>

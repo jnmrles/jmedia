@@ -25,24 +25,24 @@ const App = () => {
     },
     {
       id: 2,
-      title: "Topic Images",
+      title: "Latin Artists",
       active: false,
     },
     {
       id: 3,
-      title: "Nature Images",
+      title: "Hip-Hop/Rap Artists",
       active: false,
     },
     {
       id: 4,
-      title: "NFT Images",
+      title: "Other Artists",
       active: false,
     },
-    {
-      id: 5,
-      title: "Space Images",
-      active: false,
-    },
+    // {
+    //   id: 5,
+    //   title: "Test Images",
+    //   active: false,
+    // },
   ];
 
   const [categoryImage, setCategoryImage] = useState(images.categories.all);
@@ -68,7 +68,7 @@ const App = () => {
           <div
             className={`${styles["gallery-setting"]} flex justify-content-between align-items-center`}
           >
-            <h1>All images</h1>
+            <h1>Our Work</h1>
             <Dropdown
               title="All Images"
               items={ddItems}
