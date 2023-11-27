@@ -21,7 +21,7 @@ const Count = (props) => {
     if (start === end) return;
 
     if (end > 1000) {
-      start = end * 0.08;
+      start = end * 0.5;
     }
 
     // find duration per increment

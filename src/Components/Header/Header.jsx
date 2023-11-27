@@ -36,20 +36,14 @@ const Header = () => {
           className={`${styles["headings-header"]} flex justify-content-center flex-column  `}
         >
           <h2 className={styles["heading-header-title"]}>
-            Touring Photographer + Videographer 📸🤘
+            Concert Photography📸🤘
             {/* <TypeAnimation
               sequence={[
                 // Same substring at the start will only be typed out once, initially
                 "A Music Photographer ",
                 1000, // wait 1s before replacing "Mice" with "Hamsters"
-                "A Creative Director",
-                1000,
-                "A Multi-Media Designer",
-                1000,
-                "A Developer",
-                1000,
               ]}
-              wrapper="span"
+              wrapper="h2"
               speed={50}
               style={{ display: "inline-block" }}
               repeat={Infinity}
