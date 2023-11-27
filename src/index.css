@@ -49,6 +49,13 @@ body {
     font-style: normal;
   }
 
+  @font-face {
+    font-family: 'Invasion'; /* Specify the desired font-family name */
+    src: url('./fonts/invasion2000/INVASION2000.TTF') format('truetype'); /* Specify the path to your .ttf file */
+    font-weight: normal;
+    font-style: normal;
+  }
+
 
 @font-face {
     font-family: Matrix;

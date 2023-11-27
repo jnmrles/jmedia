@@ -11,6 +11,8 @@ import HeaderBoxes from "./HeaderBoxes/HeaderBoxes";
 import { SearchNormal1 } from "iconsax-react";
 import { Setting4 } from "iconsax-react";
 
+import { TypeAnimation } from "react-type-animation";
+
 // import jsons
 import JsonHeader from "../../Jsons/HeaderBoxes.json";
 
@@ -34,11 +36,28 @@ const Header = () => {
           className={`${styles["headings-header"]} flex justify-content-center flex-column  `}
         >
           <h2 className={styles["heading-header-title"]}>
-            Be one who change the world 😎🤘
+            Touring Photographer + Videographer 📸🤘
+            {/* <TypeAnimation
+              sequence={[
+                // Same substring at the start will only be typed out once, initially
+                "A Music Photographer ",
+                1000, // wait 1s before replacing "Mice" with "Hamsters"
+                "A Creative Director",
+                1000,
+                "A Multi-Media Designer",
+                1000,
+                "A Developer",
+                1000,
+              ]}
+              wrapper="span"
+              speed={50}
+              style={{ display: "inline-block" }}
+              repeat={Infinity}
+            /> */}
           </h2>
           <h1 className={styles["heading-header-second-title"]}>
-            Artists make The Arts better <br />
-            The Arts design the <span>world</span> better
+            Capturing Musics Most Iconic Moments <br />
+            One <span>FRAME</span> at a time
           </h1>
           {/*
           <div className={`${styles["search-bar"]} flex align-items-center`}>
