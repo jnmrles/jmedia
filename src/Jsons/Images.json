@@ -50,18 +50,18 @@
                 "id": "wallpaper 6",
                 "src": "img/wallpapers/black.png",
                 "user": {
-                    "src": "img/profile/lolla.jpg",
-                    "name": "Karol G",
-                    "job": "Lollapalooza"
+                    "src": "img/profile/aragon.png",
+                    "name": "6Lack",
+                    "job": "Aragon Ballroom"
                 }
             },
             {
                 "id": "wallpaper 7",
                 "src": "img/wallpapers/uzi3.png",
                 "user": {
-                    "src": "img/profile/cmn.jpg",
-                    "name": "Maluma",
-                    "job": "CMN EVENTS"
+                    "src": "img/profile/aragon.png",
+                    "name": "Lil Uzi Vert",
+                    "job": "Aragon Ballroom"
                 }
             },
             {
@@ -77,45 +77,45 @@
                 "id": "wallpaper 9",
                 "src": "img/wallpapers/champ.png",
                 "user": {
-                    "src": "img/profile/2.png",
-                    "name": "Joseph",
-                    "job": "Designer"
+                    "src": "img/profile/cmn.jpg",
+                    "name": "Pancho Barraza",
+                    "job": "CMN EVENTS"
                 }
             },
             {
                 "id": "wallpaper 10",
                 "src": "img/wallpapers/jared.jpg",
                 "user": {
-                    "src": "img/profile/4.jpg",
-                    "name": "Charles",
-                    "job": "Designer"
+                    "src": "img/profile/iheart.png",
+                    "name": "Jared Leto",
+                    "job": "iHeart Radio"
                 }
             },
             {
                 "id": "wallpaper 11",
                 "src": "img/wallpapers/jake.jpeg",
                 "user": {
-                    "src": "img/profile/2.png",
-                    "name": "Joshua",
-                    "job": "Developer"
+                    "src": "img/profile/lyrical.jpg",
+                    "name": "GloUp Jake",
+                    "job": "Summer Smash"
                 }
             },
             {
                 "id": "wallpaper 12",
                 "src": "img/wallpapers/utopia.jpeg",
                 "user": {
-                    "src": "img/profile/5.jpg",
-                    "name": "Jacob",
-                    "job": "Ui/Ux Designer"
+                    "src": "img/profile/iheart.png",
+                    "name": "Travis Scott",
+                    "job": "iHeart Radio"
                 }
             },
             {
                 "id": "wallpaper 13",
                 "src": "img/wallpapers/panchSax2.png",
                 "user": {
-                    "src": "img/profile/2.png",
-                    "name": "Larry",
-                    "job": "photographer"
+                    "src": "img/profile/cmn.jpg",
+                    "name": "Pancho Barraza",
+                    "job": "CMN EVENTS"
                 }
             },
             {
@@ -123,34 +123,34 @@
                 "src": "img/wallpapers/panchoCross.jpg",
                 "user": {
                     "src": "img/profile/4.jpg",
-                    "name": "Eric",
-                    "job": "Editor"
+                    "name": "Pancho Barraza",
+                    "job": "CMN EVENTS"
                 }
             },
             {
                 "id": "wallpaper 15",
                 "src": "img/wallpapers/keyglock.jpg",
                 "user": {
-                    "src": "img/profile/5.jpg",
-                    "name": "Justin",
-                    "job": "Designer"
+                    "src": "img/profile/lolla.jpg",
+                    "name": "Key Glock",
+                    "job": "Lollapalooza"
                 }
             },
             {
                 "id": "wallpaper 16",
                 "src": "img/wallpapers/vic.jpeg",
                 "user": {
-                    "src": "img/profile/5.jpg",
-                    "name": "Justin",
-                    "job": "Designer"
+                    "src": "img/profile/lyrical.jpg",
+                    "name": "Vic Mensa",
+                    "job": "Summer Smash"
                 }
 
             },       {
                 "id": "wallpaper 17",
                 "src": "img/wallpapers/panchTej.jpg",
                 "user": {
-                    "src": "img/profile/5.jpg",
-                    "name": "Justin",
+                    "src": "img/profile/cmn.jpg",
+                    "name": "Pancho Barraza",
                     "job": "Designer"
                 }
 
@@ -277,7 +277,7 @@
 
 
         ],
-        "space": [
+        "test": [
             {
                 "id": "wallpaper 1",
                 "src": "img/wallpapers/6.jpg",

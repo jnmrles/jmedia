@@ -77,7 +77,7 @@ const App = () => {
           </div>
           <MasonryLayout images={categoryImage} />
           <button className={styles["button-33"]} role="button">
-            Button 33
+            INQUIRE
           </button>
         </ContainerCard>
       </div>

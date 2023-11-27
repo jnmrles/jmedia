@@ -4,9 +4,9 @@ const BrickLayout = () => {
   return (
     <div className={styles["brick-layout"]}>
       <div className={styles["brick-column"]}>
-        <img src="img/dummy_image/karol.png" alt="" />
+        <img src="img/wallpapers/black.png" alt="" />
         <img src="img/wallpapers/test.png" alt="" />
-        <img src="img/dummy_image/3.jpg" alt="" />
+        <img src="img/wallpapers/wents.jpg" alt="" />
       </div>
       <div className={styles["brick-column"]}>
         <img src="img/dummy_image/flame.jpg" alt="" />
@@ -14,9 +14,9 @@ const BrickLayout = () => {
         <img src="img/wallpapers/keyglock.jpg" alt="" />
       </div>
       <div className={styles["brick-column"]}>
-        <img src="img/dummy_image/7.jpg" alt="" />
-        <img src="img/dummy_image/8.jpg" alt="" />
-        <img src="img/dummy_image/9.jpg" alt="" />
+        <img src="img/wallpapers/vic.jpeg" alt="" />
+        <img src="img/wallpapers/FOB.jpeg" alt="" />
+        <img src="img/wallpapers/karol.png" alt="" />
       </div>
     </div>
   );

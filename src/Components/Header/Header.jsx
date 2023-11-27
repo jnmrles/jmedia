@@ -36,7 +36,7 @@ const Header = () => {
           className={`${styles["headings-header"]} flex justify-content-center flex-column  `}
         >
           <h2 className={styles["heading-header-title"]}>
-            Concert Photography📸🤘
+            Concert Photography 📸🤘
             {/* <TypeAnimation
               sequence={[
                 // Same substring at the start will only be typed out once, initially

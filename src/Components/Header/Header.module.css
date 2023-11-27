@@ -116,10 +116,10 @@
 }
 @media screen and (max-width: 700px) {
     .headings-header {
-       margin-top:-35%;
+       margin-top:-40%;
     }
     .header{
-        height: 90vh;
+        height: 95vh;
     }
     .heading-header-title  {
         margin-left: -50px;
@@ -137,3 +137,6 @@
         height: 30px;
     }
 }
+
+
+

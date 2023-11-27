@@ -49,6 +49,10 @@
     .brick-layout {
         width: 80%;
     }
+
+    .brick-column:nth-child(2) img:first-child {
+        margin-top: -300px;
+    }
 }
 @media screen and (max-width: 840px) {
     .brick-layout {

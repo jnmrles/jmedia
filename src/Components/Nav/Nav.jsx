@@ -11,7 +11,9 @@ import { HambergerMenu } from "iconsax-react";
 const Nav = () => {
   return (
     <nav className={`${styles.nav} flex align-items-center`}>
-      <h1 className={styles["nav-title"]}>JMEDIA</h1>
+      <h1 className={styles["nav-span"]}>
+        J<span className={styles["nav-title"]}>MEDIA</span>
+      </h1>
       {/* <ul className={`flex align-items-center ${styles["navbar-nav"]}`}>
         <li className={`${styles["nav-item"]} ${styles.active}`}>
           <a href="" className={styles["nav-link"]}>
@@ -46,7 +48,10 @@ const Nav = () => {
       </ul> */}
       <div className={`flex ${styles["navbar-buttons"]}`}>
         {/* <Button theme="transparent">Login</Button> */}
-        <Button theme="matrix">INQUIRE</Button>
+        {/* <Button theme="matrix">INQUIRE</Button> */}
+        <button className={styles["button-33"]} role="button">
+          INQUIRE
+        </button>
       </div>
       {/* <div className={styles["navbar-responsive-menu"]}>
         <Button theme="transparent">
