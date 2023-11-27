@@ -41,7 +41,7 @@ const Count = (props) => {
 
   return (
     <h1>
-      <i>{count} + </i>
+      <i>{count}+</i>
     </h1>
   );
 };
