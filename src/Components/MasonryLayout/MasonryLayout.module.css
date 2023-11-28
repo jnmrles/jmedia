@@ -101,18 +101,45 @@ margin-right: 10%;
     }
 
     .spotifyWeb{
-        width: 150% !important;
+
+
 
     }
-
-@media  screen and (max-width: 700px) {
+ .spotifyMobile{
+    width: 50% !important;
+    height: 20% !important;
+    margin-top: 5%;
+ }
+@media  screen and (max-width: 800px) {
     .modal-content {
         max-width: 80%;
         max-height: 600px;
         min-height: 200px;
-        margin-bottom: 25%;
+
 
 
       }
 
+      .modal{
+        flex-direction: column;
+      }
+
+      .modalDes{
+       margin-right: 0%;
+       margin-top: 5%;
+       margin-bottom: -5%;
+
+      }
+
+      .my-masnry-user-prof-desc {
+        font-size: 1rem;
+      }
+
+
+.close{
+    font-size: 20px;
+    top: 2%;
 }
+
+
+    }

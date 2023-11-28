@@ -22,7 +22,7 @@ const MasonryLayout = ({ images }) => {
 
   const [modalOpen, setModalOpen] = useState(false);
   const [selectedImage, setSelectedImage] = useState("");
-  const [isMobile, setIsMobile] = useState(window.innerWidth <= 768);
+  const [isMobile, setIsMobile] = useState(window.innerWidth <= 800);
 
   useEffect(() => {
     const handleScroll = (event) => {
@@ -116,6 +116,18 @@ const MasonryLayout = ({ images }) => {
             src={selectedImage.src}
             alt="Zoomed Image"
           />
+          {isMobile ? (
+            <Spotify
+              className={styles["spotifyMobile"]}
+              link={
+                selectedImage.album
+                  ? selectedImage.album
+                  : "https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl?si=mTiITmlHQpaGkoivGTv8Jw"
+              }
+            />
+          ) : (
+            false
+          )}
         </div>
       )}
     </>
