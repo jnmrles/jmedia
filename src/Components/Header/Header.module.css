@@ -116,7 +116,7 @@
 }
 @media screen and (max-width: 700px) {
     .headings-header {
-       margin-top:-40%;
+       margin-top:-35%;
     }
     .header{
         height: 95vh;

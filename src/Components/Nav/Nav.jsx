@@ -13,7 +13,7 @@ const Nav = () => {
   return (
     <nav className={`${styles.nav} flex align-items-center`}>
       <h1 className={styles["nav-span"]}>
-        J<span className={styles["nav-title"]}>MEDIA</span>
+        J<span className={styles["nav-span"]}>MEDIA</span>
       </h1>
       {/* <ul className={`flex align-items-center ${styles["navbar-nav"]}`}>
         <li className={`${styles["nav-item"]} ${styles.active}`}>

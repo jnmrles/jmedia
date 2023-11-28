@@ -1,16 +1,6 @@
 {
     "informations": [
         {
-            "title": "IMPRESSIONS",
-            "number": 1000000,
-            "id": 1
-        },
-        {
-            "title": "LIKES",
-            "number": 200000,
-            "id": 2
-        },
-        {
             "title": "ARTIST",
             "number": 100,
             "id": 3
@@ -19,6 +9,17 @@
             "title": "EVENTS",
             "number": 30,
             "id": 4
+        },
+        {
+            "title": "IMPRESSIONS",
+            "number": 1000000,
+            "id": 1
+        },
+        {
+            "title": "LIKES",
+            "number": 200000,
+            "id": 2
         }
+
     ]
 }

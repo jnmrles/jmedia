@@ -12,15 +12,22 @@ const Count = (props) => {
   // number displayed by component
   const [count, setCount] = useState(0);
 
+  let m = 0;
+
   useEffect(() => {
     let start = 0;
     // first three numbers from props
-    const end = number;
+
+    let end = number;
     // if zero, return
     if (start === end) return;
 
-    if (end > 1000) {
-      start = end * 0.5;
+    if (end >= 1000 && end < 1000000) {
+      end = end / 1000;
+    }
+
+    if (end >= 1000000) {
+      end = end / 1000000;
     }
 
     // find duration per increment
@@ -37,11 +44,21 @@ const Count = (props) => {
     }, incrementTime);
 
     // dependency array
-  }, [number, 3]);
+  }, [number, 2]);
+
+  let cnt = () => {
+    if (number >= 1000 && number < 1000000) {
+      return `${count}K`;
+    } else if (number >= 1000000) {
+      return `${number / 1000000}M`;
+    } else {
+      return `${count}`;
+    }
+  };
 
   return (
     <h1>
-      <i>{count}+</i>
+      <i>{cnt()}+</i>
     </h1>
   );
 };
