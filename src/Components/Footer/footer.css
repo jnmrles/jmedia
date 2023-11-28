@@ -23,7 +23,7 @@
   text-transform: capitalize;
   line-height: 3rem;
   font-family: Misto !important;
-  color: green;
+  color:   #8bffb6;
 }
 .footer-content p{
   max-width: 500px;
@@ -70,6 +70,8 @@
   padding: 20px;
 padding-bottom: 40px;
   text-align: center;
+  display: flex;
+  justify-content: center;
 }
 .footer-bottom p{
 float: left;
@@ -113,4 +115,9 @@ display: flex;
 margin-top: 10px;
 margin-bottom: 20px;
 }
+}
+
+
+.email{
+  color: #c2fbd7 !important;
 }

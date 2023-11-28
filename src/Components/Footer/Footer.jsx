@@ -15,16 +15,16 @@ const Footer = () => {
           out through my email or my social media for any inquiries, bookings,
           or just to say hello!
         </p>
-        <p>info@jmedia.photo</p>
+        <p className="email">info@jmedia.photo</p>
         <ul className="socials">
           <li>
             <a href="#">
-              <SocialIcon url="https://instagram.com" />
+              <SocialIcon url="https://instagram.com/jm.edia" />
             </a>
           </li>
           <li>
             <a href="#">
-              <SocialIcon url="https://tiktok.com" />
+              <SocialIcon url="https://tiktok.com/@jm.edia" />
             </a>
           </li>
         </ul>
