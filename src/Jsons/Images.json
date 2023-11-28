@@ -14,6 +14,7 @@
             {
                 "id": "wallpaper 2",
                 "src": "img/wallpapers/pancho.jpg",
+                "album": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3463WU?si=57fdf1c708c64c52",
                 "user": {
                     "src": "img/profile/cmn.jpg",
                     "name": "PANCHO BARRAZA",
@@ -23,6 +24,7 @@
             {
                 "id": "wallpaper 3",
                 "src": "img/wallpapers/pancho2.jpg",
+                "album": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3463WU?si=57fdf1c708c64c52",
                 "user": {
                     "src": "img/profile/cmn.jpg",
                     "name": "Pancho Barraza",
@@ -32,6 +34,7 @@
             {
                 "id": "wallpaper 4",
                 "src": "img/wallpapers/karol.png",
+                "album":"https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u?si=3Oxqzo_WTgK6NQSKmFfrWA",
                 "user": {
                     "src": "img/profile/lolla.jpg",
                     "name": "Karol G",
@@ -51,6 +54,7 @@
             {
                 "id": "wallpaper 6",
                 "src": "img/wallpapers/black.png",
+                "album": "https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF?si=UVkgz-W8Trqq0XYMs4nvpQ",
                 "user": {
                     "src": "img/profile/aragon.png",
                     "name": "6Lack",
@@ -60,6 +64,7 @@
             {
                 "id": "wallpaper 7",
                 "src": "img/wallpapers/uzi3.png",
+                "album": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz?si=3c5CT2V1TZOrcxonz5R_sA",
                 "user": {
                     "src": "img/profile/aragon.png",
                     "name": "Lil Uzi Vert",
@@ -69,6 +74,7 @@
             {
                 "id": "wallpaper 8",
                 "src": "img/wallpapers/karolCrowd.jpg",
+                "album":"https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u?si=3Oxqzo_WTgK6NQSKmFfrWA",
                 "user": {
                     "src": "img/profile/lolla.jpg",
                     "name": "Karol G",
@@ -78,6 +84,7 @@
             {
                 "id": "wallpaper 9",
                 "src": "img/wallpapers/champ.png",
+                "album": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3463WU?si=57fdf1c708c64c52",
                 "user": {
                     "src": "img/profile/cmn.jpg",
                     "name": "Pancho Barraza",
@@ -87,6 +94,7 @@
             {
                 "id": "wallpaper 10",
                 "src": "img/wallpapers/jared.jpg",
+                "album":"https://open.spotify.com/playlist/5Yzwdk4YXaUuoUqU1VKqgN?si=988084a652ff4191",
                 "user": {
                     "src": "img/profile/iheart.png",
                     "name": "Jared Leto",
@@ -96,6 +104,7 @@
             {
                 "id": "wallpaper 11",
                 "src": "img/wallpapers/jake.jpeg",
+                "album": "https://open.spotify.com/playlist/27zapsEBzpwdZ0heHxu71F?si=b049157056b846e2",
                 "user": {
                     "src": "img/profile/lyrical.jpg",
                     "name": "GloUp Jake",
@@ -105,6 +114,7 @@
             {
                 "id": "wallpaper 12",
                 "src": "img/wallpapers/utopia.jpeg",
+                "album": "https://open.spotify.com/playlist/1iLx9sxt1D13OLkvBOfoIE?si=0821af494841410c",
                 "user": {
                     "src": "img/profile/iheart.png",
                     "name": "Travis Scott",
@@ -114,6 +124,7 @@
             {
                 "id": "wallpaper 13",
                 "src": "img/wallpapers/panchSax2.png",
+                "album": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3463WU?si=57fdf1c708c64c52",
                 "user": {
                     "src": "img/profile/cmn.jpg",
                     "name": "Pancho Barraza",
@@ -123,6 +134,7 @@
             {
                 "id": "wallpaper 14",
                 "src": "img/wallpapers/panchoCross.jpg",
+                "album": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3463WU?si=57fdf1c708c64c52",
                 "user": {
                     "src": "img/profile/cmn.jpg",
                     "name": "Pancho Barraza",
@@ -132,6 +144,7 @@
             {
                 "id": "wallpaper 15",
                 "src": "img/wallpapers/keyglock.jpg",
+                "album": "https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx?si=TIh-kHcSR_ORpIEbzuh4jQ",
                 "user": {
                     "src": "img/profile/lolla.jpg",
                     "name": "Key Glock",
@@ -141,6 +154,7 @@
             {
                 "id": "wallpaper 16",
                 "src": "img/wallpapers/vic.jpeg",
+                "album":"https://open.spotify.com/album/5f6ffbksy06LKlWIfTc45g?si=JXJaqPmqQhytdBDwMSAuuA",
                 "user": {
                     "src": "img/profile/lyrical.jpg",
                     "name": "Vic Mensa",
@@ -150,6 +164,7 @@
             },       {
                 "id": "wallpaper 17",
                 "src": "img/wallpapers/panchTej.jpg",
+                "album": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3463WU?si=57fdf1c708c64c52",
                 "user": {
                     "src": "img/profile/cmn.jpg",
                     "name": "Pancho Barraza",
@@ -160,6 +175,7 @@
             {
                 "id": "wallpaper 18",
                 "src": "img/wallpapers/fob.jpeg",
+                "album": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2T19Mk?si=7a37a8567f644c8c",
                 "user": {
                     "src": "img/profile/iheart.png",
                     "name": "Fall Out Boy",
@@ -170,6 +186,7 @@
             {
                 "id": "wallpaper 19",
                 "src": "img/wallpapers/jared.png",
+                "album":"https://open.spotify.com/playlist/5Yzwdk4YXaUuoUqU1VKqgN?si=988084a652ff4191",
                 "user": {
                     "src": "img/profile/iheart.png",
                     "name": "Jared Leto",
@@ -180,6 +197,7 @@
             {
                 "id": "wallpaper 20",
                 "src": "img/wallpapers/carti.jpg",
+                "album":"https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR?si=4DymBNwNRdSVCrZ-Z-2zuQ",
                 "user": {
                     "src": "img/profile/lyrical.jpg",
                     "name": "Playboi Carti",
@@ -190,6 +208,7 @@
             {
                 "id": "wallpaper 21",
                 "src": "img/wallpapers/dc.jpeg",
+                "album": "https://open.spotify.com/album/5BSaZIlEflaYkCJSUDMoyj?si=YBeKPAEfSr6mkG_M0qDmPg",
                 "user": {
                     "src": "img/profile/lyrical.jpg",
                     "name": "DC The Don",
@@ -213,6 +232,7 @@
             {
                 "id": "wallpaper 23",
                 "src": "img/wallpapers/trav1.png",
+                "album": "https://open.spotify.com/playlist/1iLx9sxt1D13OLkvBOfoIE?si=0821af494841410c",
                 "user": {
                     "src": "img/profile/iheart.png",
                     "name": "Travis Scott",
@@ -224,6 +244,7 @@
             {
                 "id": "wallpaper 24",
                 "src": "img/wallpapers/uziSM.png",
+                "album":"https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz?si=3c5CT2V1TZOrcxonz5R_sA",
                 "user": {
                     "src": "img/profile/lyrical.jpg",
                     "name": "Lil Uzi Vert",
@@ -235,6 +256,7 @@
             {
                 "id": "wallpaper 25",
                 "src": "img/wallpapers/freddy.png",
+                  "album":"https://open.spotify.com/album/3znl1qe13kyjQv7KcR685N?si=qmmxdQ9eRwu7eiFR29wW_g",
                 "user": {
                     "src": "img/profile/5.jpg",
                     "name": "Freddy Gibbs",
@@ -246,6 +268,7 @@
             {
                 "id": "wallpaper 26",
                 "src": "img/wallpapers/key2.png",
+                "album": "https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx?si=TIh-kHcSR_ORpIEbzuh4jQ",
                 "user": {
                     "src": "img/profile/lolla.jpg",
                     "name": "Key Glock",
@@ -257,6 +280,7 @@
             {
                 "id": "wallpaper 27",
                 "src": "img/wallpapers/wents.jpg",
+                "album":"https://open.spotify.com/playlist/37i9dQZF1DZ06evO2T19Mk?si=7a37a8567f644c8c",
                 "user": {
                     "src": "img/profile/iheart.png",
                     "name": "Fall Out Boy",
@@ -295,6 +319,7 @@
             {
                 "id": "wallpaper 2",
                 "src": "img/wallpapers/pancho.jpg",
+                "album": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3463WU?si=57fdf1c708c64c52",
                 "user": {
                     "src": "img/profile/cmn.jpg",
                     "name": "PANCHO BARRAZA",
@@ -304,6 +329,7 @@
             {
                 "id": "wallpaper 3",
                 "src": "img/wallpapers/pancho2.jpg",
+                "album": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3463WU?si=57fdf1c708c64c52",
                 "user": {
                     "src": "img/profile/cmn.jpg",
                     "name": "Pancho Barraza",
@@ -313,6 +339,7 @@
             {
                 "id": "wallpaper 4",
                 "src": "img/wallpapers/karol.png",
+                "album":"https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u?si=3Oxqzo_WTgK6NQSKmFfrWA",
                 "user": {
                     "src": "img/profile/lolla.jpg",
                     "name": "Karol G",
@@ -332,6 +359,7 @@
             {
                 "id": "wallpaper 8",
                 "src": "img/wallpapers/karolCrowd.jpg",
+                "album":"https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u?si=3Oxqzo_WTgK6NQSKmFfrWA",
                 "user": {
                     "src": "img/profile/lolla.jpg",
                     "name": "Karol G",
@@ -341,6 +369,7 @@
             {
                 "id": "wallpaper 9",
                 "src": "img/wallpapers/champ.png",
+                "album": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3463WU?si=57fdf1c708c64c52",
                 "user": {
                     "src": "img/profile/cmn.jpg",
                     "name": "Pancho Barraza",
@@ -350,6 +379,7 @@
             {
                 "id": "wallpaper 13",
                 "src": "img/wallpapers/panchSax2.png",
+                "album": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3463WU?si=57fdf1c708c64c52",
                 "user": {
                     "src": "img/profile/cmn.jpg",
                     "name": "Pancho Barraza",
@@ -359,6 +389,7 @@
             {
                 "id": "wallpaper 14",
                 "src": "img/wallpapers/panchoCross.jpg",
+                "album": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3463WU?si=57fdf1c708c64c52",
                 "user": {
                     "src": "img/profile/cmn.jpg",
                     "name": "Pancho Barraza",
@@ -368,6 +399,7 @@
             {
                 "id": "wallpaper 17",
                 "src": "img/wallpapers/panchTej.jpg",
+                "album": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3463WU?si=57fdf1c708c64c52",
                 "user": {
                     "src": "img/profile/cmn.jpg",
                     "name": "Pancho Barraza",
@@ -392,6 +424,7 @@
             {
                 "id": "wallpaper 7",
                 "src": "img/wallpapers/uzi3.png",
+                "album":"https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz?si=3c5CT2V1TZOrcxonz5R_sA",
                 "user": {
                     "src": "img/profile/aragon.png",
                     "name": "Lil Uzi Vert",
@@ -401,6 +434,7 @@
             {
                 "id": "wallpaper 12",
                 "src": "img/wallpapers/utopia.jpeg",
+                "album": "https://open.spotify.com/playlist/1iLx9sxt1D13OLkvBOfoIE?si=0821af494841410c",
                 "user": {
                     "src": "img/profile/iheart.png",
                     "name": "Travis Scott",
@@ -410,6 +444,7 @@
             {
                 "id": "wallpaper 15",
                 "src": "img/wallpapers/keyglock.jpg",
+                "album": "https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx?si=TIh-kHcSR_ORpIEbzuh4jQ",
                 "user": {
                     "src": "img/profile/lolla.jpg",
                     "name": "Key Glock",
@@ -419,6 +454,7 @@
             {
                 "id": "wallpaper 16",
                 "src": "img/wallpapers/vic.jpeg",
+                "album":"https://open.spotify.com/album/5f6ffbksy06LKlWIfTc45g?si=JXJaqPmqQhytdBDwMSAuuA",
                 "user": {
                     "src": "img/profile/lyrical.jpg",
                     "name": "Vic Mensa",
@@ -429,6 +465,7 @@
             {
                 "id": "wallpaper 20",
                 "src": "img/wallpapers/carti.jpg",
+                "album":"https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR?si=4DymBNwNRdSVCrZ-Z-2zuQ",
                 "user": {
                     "src": "img/profile/lyrical.jpg",
                     "name": "Playboi Carti",
@@ -439,6 +476,7 @@
             {
                 "id": "wallpaper 21",
                 "src": "img/wallpapers/dc.jpeg",
+                "album": "https://open.spotify.com/album/5BSaZIlEflaYkCJSUDMoyj?si=YBeKPAEfSr6mkG_M0qDmPg",
                 "user": {
                     "src": "img/profile/lyrical.jpg",
                     "name": "DC The Don",
@@ -450,6 +488,7 @@
             {
                 "id": "wallpaper 23",
                 "src": "img/wallpapers/trav1.png",
+                "album": "https://open.spotify.com/playlist/1iLx9sxt1D13OLkvBOfoIE?si=0821af494841410c",
                 "user": {
                     "src": "img/profile/iheart.png",
                     "name": "Travis Scott",
@@ -461,6 +500,7 @@
             {
                 "id": "wallpaper 24",
                 "src": "img/wallpapers/uziSM.png",
+                "album":"https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz?si=3c5CT2V1TZOrcxonz5R_sA",
                 "user": {
                     "src": "img/profile/lyrical.jpg",
                     "name": "Lil Uzi Vert",
@@ -472,9 +512,10 @@
             {
                 "id": "wallpaper 25",
                 "src": "img/wallpapers/freddy.png",
+                "album":"https://open.spotify.com/album/3znl1qe13kyjQv7KcR685N?si=qmmxdQ9eRwu7eiFR29wW_g",
                 "user": {
                     "src": "img/profile/5.jpg",
-                    "name": "Freddy Gibbs",
+                    "name": "Freddie Gibbs",
                     "job": "Chicago Cubs"
                 }
 
@@ -483,6 +524,7 @@
             {
                 "id": "wallpaper 26",
                 "src": "img/wallpapers/key2.png",
+                "album": "https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx?si=TIh-kHcSR_ORpIEbzuh4jQ",
                 "user": {
                     "src": "img/profile/lolla.jpg",
                     "name": "Key Glock",
@@ -496,6 +538,7 @@
             {
                 "id": "wallpaper 6",
                 "src": "img/wallpapers/black.png",
+                "album": "https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF?si=UVkgz-W8Trqq0XYMs4nvpQ",
                 "user": {
                     "src": "img/profile/aragon.png",
                     "name": "6Lack",
@@ -505,6 +548,7 @@
             {
                 "id": "wallpaper 10",
                 "src": "img/wallpapers/jared.jpg",
+                "album":"https://open.spotify.com/playlist/5Yzwdk4YXaUuoUqU1VKqgN?si=988084a652ff4191",
                 "user": {
                     "src": "img/profile/iheart.png",
                     "name": "Jared Leto",
@@ -514,6 +558,7 @@
             {
                 "id": "wallpaper 11",
                 "src": "img/wallpapers/jake.jpeg",
+                "album": "https://open.spotify.com/playlist/27zapsEBzpwdZ0heHxu71F?si=b049157056b846e2",
                 "user": {
                     "src": "img/profile/lyrical.jpg",
                     "name": "GloUp Jake",
@@ -523,6 +568,7 @@
             {
                 "id": "wallpaper 18",
                 "src": "img/wallpapers/fob.jpeg",
+                "album":"https://open.spotify.com/playlist/37i9dQZF1DZ06evO2T19Mk?si=7a37a8567f644c8c",
                 "user": {
                     "src": "img/profile/iheart.png",
                     "name": "Fall Out Boy",
@@ -533,6 +579,7 @@
             {
                 "id": "wallpaper 19",
                 "src": "img/wallpapers/jared.png",
+                "album":"https://open.spotify.com/playlist/5Yzwdk4YXaUuoUqU1VKqgN?si=988084a652ff4191",
                 "user": {
                     "src": "img/profile/iheart.png",
                     "name": "Jared Leto",
@@ -543,6 +590,7 @@
             {
                 "id": "wallpaper 27",
                 "src": "img/wallpapers/wents.jpg",
+                "album":"https://open.spotify.com/playlist/37i9dQZF1DZ06evO2T19Mk?si=7a37a8567f644c8c",
                 "user": {
                     "src": "img/profile/iheart.png",
                     "name": "Fall Out Boy",
