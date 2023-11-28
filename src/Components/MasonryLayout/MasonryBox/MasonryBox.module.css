@@ -54,3 +54,16 @@
 .my-masonry:hover .my-masnry-user-box {
     margin-bottom: 15px;
 }
+
+@media screen and (max-width: 700px) {
+    .my-masnry-description {
+        visibility: visible;
+        opacity: 1;
+    }
+
+    .my-masnry-user-box {
+        margin-bottom: 15px;
+    }
+
+
+}

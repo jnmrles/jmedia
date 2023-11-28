@@ -18,8 +18,9 @@
 
 .modal {
     display: flex;
+
     align-items: center;
-    justify-content: center;
+    justify-content: space-evenly;
     position: fixed;
     top: 0;
     left: 0;
@@ -31,14 +32,52 @@
 
   .modal-content {
     max-width: 80%;
-    max-height: 80%;
+    max-height: 80%
+
+
+
   }
 
   .close {
     position: absolute;
-    top: 15px;
-    right: 15px;
-    font-size: 50px;
-    color: #fff;
+    top: 5%;
+    right: 5%;
+    font-size: 30px;
+    color: red;
     cursor: pointer;
   }
+
+  .my-masnry-user-prof-desc {
+    row-gap: 10px;
+    font-size: 2rem;
+    text-transform: capitalize;
+    margin-bottom: 20%;
+}
+.my-masnry-user-prof-desc h1 {
+    color: var(--green-400);
+}
+.my-masnry-user-prof-desc h3 {
+    color: var(--dark-600);
+}
+
+
+.modalDes{
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 5%;
+margin-left: 5%;
+
+}
+
+@media  screen and (max-width: 700px) {
+    .modal-content {
+        max-width: 80%;
+        max-height: 600px;
+        min-height: 200px;
+        margin-bottom: 25%;
+
+
+      }
+
+}

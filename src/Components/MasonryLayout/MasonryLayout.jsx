@@ -9,6 +9,8 @@ import MasonryBox from "./MasonryBox/MasonryBox";
 import Zoom from "react-medium-image-zoom";
 
 import React, { useState, useEffect } from "react";
+
+import { Spotify } from "react-spotify-embed";
 // MasonryLayout Component
 const MasonryLayout = ({ images }) => {
   const breakpointColumnsObj = {
@@ -59,7 +61,7 @@ const MasonryLayout = ({ images }) => {
         columnClassName={styles["my-masonry-grid_column"]}
       >
         {images.map((item, index) => (
-          <div key={index} onClick={() => openModal(item.src)}>
+          <div key={index} onClick={() => openModal(item)}>
             <MasonryBox
               key={item.id}
               wallSrc={item.src}
@@ -73,11 +75,20 @@ const MasonryLayout = ({ images }) => {
       {modalOpen && (
         <div className={styles["modal"]}>
           <span className={styles["close"]} onClick={closeModal}>
-            &times;
-          </span>
+            &times; close
+          </span>{" "}
+          <div className={styles["modalDes"]}>
+            <div
+              className={`${styles["my-masnry-user-prof-desc"]} flex flex-column `}
+            >
+              <h1>{selectedImage.user.name}</h1>
+              <h3>{selectedImage.user.job}</h3>
+            </div>
+            <Spotify link="https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl?si=mTiITmlHQpaGkoivGTv8Jw" />
+          </div>
           <img
-            className={styles["modal-content"]}
-            src={selectedImage}
+            className={`${styles["modal-content"]} flex flex-column`}
+            src={selectedImage.src}
             alt="Zoomed Image"
           />
         </div>
