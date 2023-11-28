@@ -72,6 +72,7 @@ padding-bottom: 40px;
   text-align: center;
   display: flex;
   justify-content: center;
+  flex-direction: column;
 }
 .footer-bottom p{
 float: left;
@@ -79,6 +80,7 @@ float: left;
   word-spacing: 2px;
   text-transform: capitalize;
   color: white;
+  margin-top: 2px
 }
 .footer-bottom p a{
 color:#44e89e;

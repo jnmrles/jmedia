@@ -4,6 +4,7 @@
             {
                 "id": "wallpaper 1",
                 "src": "img/wallpapers/test.png",
+                "album": "https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA?si=5JMXBQf1TtGYKmUo-smdHw",
                 "user": {
                     "src": "img/profile/cmn.jpg",
                     "name": "Maluma",
@@ -40,6 +41,7 @@
             {
                 "id": "wallpaper 5",
                 "src": "img/wallpapers/maluma2.png",
+                "album": "https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA?si=5JMXBQf1TtGYKmUo-smdHw",
                 "user": {
                     "src": "img/profile/cmn.jpg",
                     "name": "Maluma",
@@ -199,6 +201,7 @@
             {
                 "id": "wallpaper 22",
                 "src": "img/wallpapers/maluma3.png",
+                "album": "https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA?si=5JMXBQf1TtGYKmUo-smdHw",
                 "user": {
                     "src": "img/profile/cmn.jpg",
                     "name": "Maluma",
@@ -265,6 +268,7 @@
             {
                 "id": "wallpaper 28",
                 "src": "img/wallpapers/ml.jpeg",
+                "album": "https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA?si=5JMXBQf1TtGYKmUo-smdHw",
                 "user": {
                     "src": "img/profile/cmn.jpg",
                     "name": "Maluma",
@@ -281,6 +285,7 @@
             {
                 "id": "wallpaper 1",
                 "src": "img/wallpapers/test.png",
+                "album": "https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA?si=5JMXBQf1TtGYKmUo-smdHw",
                 "user": {
                     "src": "img/profile/cmn.jpg",
                     "name": "Maluma",
@@ -317,6 +322,7 @@
             {
                 "id": "wallpaper 5",
                 "src": "img/wallpapers/maluma2.png",
+                "album": "https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA?si=5JMXBQf1TtGYKmUo-smdHw",
                 "user": {
                     "src": "img/profile/cmn.jpg",
                     "name": "Maluma",
@@ -372,6 +378,7 @@
             {
                 "id": "wallpaper 22",
                 "src": "img/wallpapers/maluma3.png",
+                "album": "https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA?si=5JMXBQf1TtGYKmUo-smdHw",
                 "user": {
                     "src": "img/profile/cmn.jpg",
                     "name": "Maluma",

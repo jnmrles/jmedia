@@ -31,6 +31,9 @@ const Footer = () => {
       </div>
       <div className="footer-bottom">
         <p>
+          Designed and Developed &copy; <a href="#">JMEDIA LLC</a>{" "}
+        </p>
+        <p>
           copyright &copy; <a href="#">JMEDIA LLC</a>{" "}
         </p>
         {/* <div className="footer-menu">

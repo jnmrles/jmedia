@@ -22,6 +22,7 @@ const MasonryLayout = ({ images }) => {
 
   const [modalOpen, setModalOpen] = useState(false);
   const [selectedImage, setSelectedImage] = useState("");
+  const [isMobile, setIsMobile] = useState(window.innerWidth <= 768);
 
   useEffect(() => {
     const handleScroll = (event) => {
@@ -38,7 +39,17 @@ const MasonryLayout = ({ images }) => {
       window.removeEventListener("wheel", handleScroll);
     }
 
+    const handleResize = () => {
+      setIsMobile(window.innerWidth <= 768);
+    };
+
+    // Add event listener for window resize
+    window.addEventListener("resize", handleResize);
+
+    // Remove event listener on component unmount
+
     return () => {
+      window.removeEventListener("resize", handleResize);
       document.body.style.overflow = "auto";
       window.removeEventListener("wheel", handleScroll);
     };
@@ -78,13 +89,27 @@ const MasonryLayout = ({ images }) => {
             &times; close
           </span>{" "}
           <div className={styles["modalDes"]}>
-            <div
-              className={`${styles["my-masnry-user-prof-desc"]} flex flex-column `}
-            >
-              <h1>{selectedImage.user.name}</h1>
-              <h3>{selectedImage.user.job}</h3>
+            <div className={styles["userInfo"]}>
+              <div
+                className={`${styles["my-masnry-user-prof-desc"]} flex flex-column `}
+              >
+                <h1>{selectedImage.user.name}</h1>
+                <h3>{selectedImage.user.job}</h3>
+              </div>
             </div>
-            <Spotify link="https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl?si=mTiITmlHQpaGkoivGTv8Jw" />
+            <div class={styles["line"]}></div>
+            {isMobile ? (
+              "test"
+            ) : (
+              <Spotify
+                className={styles["spotifyWeb"]}
+                link={
+                  selectedImage.album
+                    ? selectedImage.album
+                    : "https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl?si=mTiITmlHQpaGkoivGTv8Jw"
+                }
+              />
+            )}
           </div>
           <img
             className={`${styles["modal-content"]} flex flex-column`}
