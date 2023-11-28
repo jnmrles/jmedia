@@ -105,6 +105,14 @@
     background-size: cover;
     z-index: -1;
 }
+
+
+.button-33 a {
+
+        text-decoration: none;
+        color: inherit;
+
+}
 @media screen and (max-width: 840px) {
     .headings-header {
         align-items: center;

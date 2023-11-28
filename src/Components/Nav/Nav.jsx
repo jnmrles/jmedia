@@ -51,11 +51,16 @@ const Nav = () => {
         {/* <Button theme="transparent">Login</Button> */}
         {/* <Button theme="matrix">INQUIRE</Button> */}
 
-        <SocialIcon className={styles["socials"]} url="https://instagram.com" />
-
-        <button className={styles["button-33"]} role="button">
-          INQUIRE
-        </button>
+        <SocialIcon
+          className={styles["socials"]}
+          url="https://instagram.com/jm.edia"
+        />
+        <a href="mailto:jmphoto1031@gmail.com">
+          I
+          <button className={styles["button-33"]} role="button">
+            NQUIRE
+          </button>
+        </a>
       </div>
       {/* <div className={styles["navbar-responsive-menu"]}>
         <Button theme="transparent">

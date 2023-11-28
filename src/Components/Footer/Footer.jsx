@@ -15,6 +15,7 @@ const Footer = () => {
           out through my email or my social media for any inquiries, bookings,
           or just to say hello!
         </p>
+        <p>info@jmedia.photo</p>
         <ul className="socials">
           <li>
             <a href="#">
