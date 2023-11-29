@@ -76,7 +76,7 @@ const App = () => {
             />
           </div>
           <MasonryLayout images={categoryImage} />
-          <a className={styles["email"]} href="mailto:jmphoto1031@gmail.com">
+          <a className={styles["email"]} href="mailto:info@jmedia.photo">
             <button className={styles["button-33"]} role="button">
               INQUIRE
             </button>
