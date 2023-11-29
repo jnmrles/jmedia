@@ -55,7 +55,7 @@ const Nav = () => {
           className={styles["socials"]}
           url="https://instagram.com/jm.edia"
         />
-        <a href="mailto:jmphoto1031@gmail.com">
+        <a className={styles["email"]} href="mailto:jmphoto1031@gmail.com">
           I
           <button className={styles["button-33"]} role="button">
             INQUIRE

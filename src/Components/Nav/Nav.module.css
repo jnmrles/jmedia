@@ -1,6 +1,6 @@
 .nav {
     padding: 40px 40px 0 40px;
-    z-index: 2;
+    z-index: 90;
 }
 .nav-title {
     font-size: 2.8rem;
@@ -53,6 +53,7 @@
 .navbar-buttons {
     margin-left: auto;
     column-gap: 20px;
+    z-index: 99;
 }
 .navbar-responsive-menu {
     display: none !important;
@@ -99,6 +100,7 @@
     }
 }
 @media screen and (max-width: 960px) {
+
     .navbar-nav {
         display: none !important;
     }
